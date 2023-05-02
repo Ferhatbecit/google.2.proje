@@ -1,0 +1,53 @@
+
+.google{
+    text-align: center;
+}
+
+.toplam{
+    text-align: center;
+    display: flex;
+    gap: 5px;
+    
+}
+
+
+.kutu{
+   
+    background-color: beige;
+    text-align: center;
+    
+}
+
+.kutu1{
+     
+    background-color: aqua;
+    width: 650px;
+   
+
+   
+  
+}
+.kutu2{
+    text-align: center;
+    background-color: aquamarine;
+   width: 650px;
+   
+   
+   
+}
+
+.kutu3{
+    background-color:cadetblue ;
+    width: 650px;
+    
+    
+
+    
+}
+p{
+    text-align: center;
+}
+
+
+
+
